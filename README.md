@@ -1,7 +1,4 @@
 
-
-Here’s a tailored README for your LeetCode repository that aligns with your expertise and passions:
-
 ---
 
 # LeetCode Solutions 🚀
